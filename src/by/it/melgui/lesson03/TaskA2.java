@@ -26,5 +26,7 @@ class TaskA2 {
         String b = "Златая цепь на дубе том:";
         String c = "И днём и ночью кот учёный";
         String d = "Всё ходит по цепи кругом;";
+        System.out.println("Мое любимое стихотворение:");
+        System.out.println(a + "\n" + b + "\n" + c + "\n" + d);
     }
 }
